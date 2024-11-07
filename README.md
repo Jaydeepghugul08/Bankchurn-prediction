@@ -29,3 +29,4 @@ Approach
    - Evaluate the model using metrics such as accuracy, precision, recall, and F1-score.
 5. Deployment:
    - Deploy the trained model for real-time predictions.
+6.END
